@@ -3,6 +3,13 @@
 This repository contains the complete experimental and analytical framework used to develop and evaluate human–robot interaction behaviors on a 3-DOF Delta parallel robot equipped with a custom six-axis force–torque sensor. The work integrates hardware-dependent sensing, calibration, admittance control, Z-width passivity analysis, and experimental data collection. The included journal manuscript provides full methodological and theoretical details. 
 
 
+
+https://github.com/user-attachments/assets/886c014f-85c3-490f-b258-71341e481e62
+
+
+
+
+
 ## Overview
 
 The goal of this project is to characterize and improve physical human–robot interaction through real-time force sensing and admittance control. A high-precision force–torque sensor is mounted on the Delta robot end-effector, enabling accurate measurement of user-applied forces and torques. The framework includes:
