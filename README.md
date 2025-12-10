@@ -7,6 +7,7 @@ This repository contains the complete experimental and analytical framework used
 https://github.com/user-attachments/assets/886c014f-85c3-490f-b258-71341e481e62
 
 
+![pHRI simulation](https://github.com/user-attachments/assets/2d5a84a3-af64-49eb-a94b-6dfeb8908a36)
 
 
 
