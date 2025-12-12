@@ -2,9 +2,8 @@
 
 This repository contains the complete experimental and analytical framework used to develop and evaluate human–robot interaction behaviors on a 3-DOF Delta parallel robot equipped with a custom six-axis force–torque sensor. The work integrates hardware-dependent sensing, calibration, admittance control, Z-width passivity analysis, and experimental data collection. The included journal manuscript provides full methodological and theoretical details. 
 
+<img width="1463" height="589" alt="image" src="https://github.com/user-attachments/assets/2b608d3f-75a3-4be5-abe6-a4f7ca6f3ee0" />
 
-
-https://github.com/user-attachments/assets/886c014f-85c3-490f-b258-71341e481e62
 
 
 ![pHRI simulation](https://github.com/user-attachments/assets/2d5a84a3-af64-49eb-a94b-6dfeb8908a36)
