@@ -39,6 +39,7 @@ A dedicated PyQt-based tool is included for:
 The calibration interface implements OLS regression for each axis and allows optional filtering and zoom controls. 
 
 ## Admittance and Z-Width Simulation and Experimental Case study
+![grabss](https://github.com/user-attachments/assets/f16a6391-5bb3-4b0e-9d92-970e74ebaf8b)
 
 
 A complete admittance and virtual-wall simulation environment is provided. The simulation includes:
@@ -49,9 +50,6 @@ A complete admittance and virtual-wall simulation environment is provided. The s
 - Z-width estimation with peak-stiffness detection  
 - Visualization of user forces, wall forces, and robot motion in 3D  
 - Safety clamping and workspace boundary enforcement  
-
-<img width="619" height="879" alt="image" src="https://github.com/user-attachments/assets/6f4e6781-9529-4f5f-a1d9-a7ac6f5a538b" />
-
 The simulation code provides the same logic used in real experiments, enabling reproducible offline testing. 
 
 ## Experimental Data
